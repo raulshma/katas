@@ -1,3 +1,4 @@
 .flowconfig
 .je-project-settings/
 Katas.sublime-project
+package.json
